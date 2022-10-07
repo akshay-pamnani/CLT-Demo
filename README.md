@@ -47,6 +47,7 @@ num_throws_per_experiment, is like sample size, and it has been set to a smaller
 
 For a low sample size, the following can be seen in the graphs:
 1.As the number of samples is lower (number of experiments) is low, the graph significantly deviates from normal distribution.
+
 2. Increasing the number of samples does make it closer to normal distribution but it still shows some erratic behaviors like peaks and skewness.
 
 The first set of 6 distributions is for num_throws_per_experiment =10
