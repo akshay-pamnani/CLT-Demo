@@ -16,6 +16,7 @@ approximately normal distribution with the mean of that distribution equal to th
 # Building Up the Population
 
 1.Distribution obtained when one die is rolled.
+
 2.Distribution of the sum of two dice: This will be taken as our population
 
 The underlying distribution of the population is not normal, and it is a multimodal distribution.
