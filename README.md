@@ -62,11 +62,34 @@ the graph becomes closer to normal distribution, and for num_throws_per_experime
 the distribution gets very close to normal distribution as the number of samples(num_of_experiments) increase, however it is still not very smooth. 
 However for num_throws_per_experiment = 1000,  as we increase the number of samples the graph almost becomes like a perfect normal distribution.
 
-# Conclusion
+# Key Points
 
 1. As the number of experiments(number of samples) gets larger, the sample mean distribution gets closer to normal distribution.
 2. As num_throws_per_experiments(sample size) gets bigger, the sample mean distribution gets closer to normal distribution.
 3. The minimum sample size matters: only a sample size of at least 30 can ensure the mean follows the normal distribution.
+
+
+# Some Applications of CLT:
+
+1. Randomized Controlled Trials (RCTs)
+2. Election Survey
+3. Photo denoise
+
+# Conclusion
+
+1.CLT has a wide range of real-life applications 
+2.Parametric Hypothesis testing is more robust due to CLT
+3.CLT is useful, but wrong data/incomplete data -> Wrong inferences
+4.Fun Fact : CLT is also widely involved in all parameter estimation process, e.g. EE System, Simulation, ML models, etc
+
+
+
+
+
+
+
+
+
 
 
 
