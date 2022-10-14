@@ -77,9 +77,12 @@ However for num_throws_per_experiment = 1000,  as we increase the number of samp
 
 # Conclusion
 
-1.CLT has a wide range of real-life applications 
+1.CLT has a wide range of real-life applications
+
 2.Parametric Hypothesis testing is more robust due to CLT
+
 3.CLT is useful, but wrong data/incomplete data -> Wrong inferences
+
 4.Fun Fact : CLT is also widely involved in all parameter estimation process, e.g. EE System, Simulation, ML models, etc
 
 
